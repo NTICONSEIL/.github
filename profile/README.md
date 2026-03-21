@@ -18,7 +18,7 @@ Bienvenue sur l'espace technologique de **NTICONSEIL**. Nous accompagnons la tra
 ## 🔬 Focus : NTI Lab (R&D Appliquée)
 *Le NTI Lab est notre espace d'exploration dédié aux technologies de rupture et à l'accueil des talents de demain.*
 
-### 🎯 Nos Axes de Recherche 2024-2030
+### 🎯 Nos Axes de Recherche 2026-2036
 *   **🤖 IA Industrielle** : Deep Learning appliqué aux données capteurs et maintenance prédictive.
 *   **🛡️ Cybersécurité** : Sécurisation des flux de données critiques et architectures Zero-Trust.
 *   **⚙️ Data Engineering** : Pipelines scalables pour le traitement de données à haute fréquence.
@@ -42,7 +42,7 @@ Vous êtes étudiant ? Le NTI Lab vous propose :
 ---
 
 ## 📫 Nous contacter
-*   **Site Web :** [nticonseil.fr](https://nticonseil.fr)
+*   **Site Web :** [nticonseil.com](https://nticonseil.com)
 *   **LinkedIn :** [Suivre NTI Conseil](https://linkedin.com/company/nticonseil)
 *   **Collaboration :** Pour les partenariats académiques, ouvrez une *Issue* sur le dépôt concerné.
 
