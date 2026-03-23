@@ -47,3 +47,21 @@ Vous êtes étudiant ? Le NTI Lab vous propose :
 *   **Collaboration :** Pour les partenariats académiques, ouvrez une *Issue* sur le dépôt concerné.
 
 > *L'innovation n'est pas une destination, c'est une méthode.*
+
+---
+
+## 🤝 Rejoignez l'aventure NTI Lab
+
+Vous êtes étudiant en **Ingénierie**, **Data Science** ou **Cybersécurité** ? Nous croyons à la transmission par la pratique et à l'innovation ouverte.
+
+### 🚀 Comment contribuer ?
+1. **Explorez nos Missions** : Consultez les fichiers `SUJETS_DE_RECHERCHE.md` dans nos dépôts [Lab](./) et [Academy](./).
+2. **Proposez vos idées** : Vous avez un projet en tête lié à l'IA, l'IoT ou les Télécoms ? Ouvrez une *Discussion* ou contactez-nous.
+3. **Apprenez par le code** : Forkez nos prototypes, expérimentez, et soumettez vos améliorations via *Pull Request*.
+
+> [!IMPORTANT]
+> **Mentorat & Stages** : Le NTI Lab accompagne chaque année des talents sur des projets de fin d'études. Votre contribution ici est votre meilleur CV.
+
+[👉 Découvrir les missions de recherche en cours](https://github.com/NTICONSEIL/lab-convolutional-codes-study/blob/main/docs/SUJETS_DE_RECHERCHE.md)
+
+---
